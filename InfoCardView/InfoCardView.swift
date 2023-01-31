@@ -35,7 +35,7 @@ struct InfoCardView_Previews: PreviewProvider {
     static var previews: some View {
         
         let viewModel = InfoCardView.ViewModel(
-            title: "Lock In Production",
+            title: "Title Goes Here",
             imageName: "Info"
         )
         
